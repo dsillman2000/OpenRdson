@@ -1,0 +1,16 @@
+.github/workflows/ci.yml
+  h_4cc74772b10fd4 1-83
+README.md
+  h_4cc74772b10fd4 96-98,192-193
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ebc7b0fd4b03d3c0b090841d55c655c367bce9c7",
+  "prompts": {},
+  "humans": {
+    "h_4cc74772b10fd4": {
+      "author": "dsillman2000 <dsillman2000@yahoo.com>"
+    }
+  }
+}
